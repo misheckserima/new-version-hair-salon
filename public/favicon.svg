@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="200" height="200" viewBox="0 0 200 200" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Blue bars -->
+  <rect x="20" y="100" width="160" height="30" transform="rotate(-45 20 100)" fill="#000080" /> <!-- Dark blue -->
+  <rect x="40" y="120" width="160" height="30" transform="rotate(-45 40 120)" fill="#4169E1" /> <!-- Medium blue -->
+  <rect x="60" y="140" width="160" height="30" transform="rotate(-45 60 140)" fill="#87CEEB" /> <!-- Light blue -->
+  <!-- Text -->
+  <text x="100" y="160" font-family="Arial, sans-serif" font-size="48" font-weight="bold" fill="black" text-anchor="middle">2Pal</text>
+</svg> 
