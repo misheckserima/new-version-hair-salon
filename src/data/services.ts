@@ -117,15 +117,15 @@ export const services: Service[] = [
 export const heroSlides = [
   {
     id: "slide-1",
-    image: "images/hairstyle1.jpg",
-    title: "Expert Hair Styling",
-    description: "Transform your look with our professional stylists"
-  },
-  {
-    id: "slide-2",
     image: "images/nailart.jpg",
     title: "Premium Nail Services",
     description: "Pamper yourself with our luxury nail treatments"
+  },
+  {
+    id: "slide-2",
+    image: "images/hairstyle1.jpg", 
+    title: "Expert Hair Styling", 
+    description: "Transform your look with our professional stylists"
   },
   {
     id: "slide-3",
